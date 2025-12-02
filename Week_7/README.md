@@ -1,5 +1,4 @@
-Week 7 – Self-Organizing Maps (SOM) Applied to the Traveling Salesman Problem (TSP)
-
+**Week 7 – Self-Organizing Maps (SOM) Applied to the Traveling Salesman Problem (TSP)**
 
 Week 7 focused on Self-Organizing Maps (SOMs) — an unsupervised neural-network-based technique traditionally used for dimensionality reduction, topology preservation and clustering.
 This week, I implemented SOM to solve a well-known optimization problem:
